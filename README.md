@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I'm currently working on a backend system to store grades.<br>🤝 I'm looking to collaborate on internship opportunities.<br>🆘 I'm looking for help with PHP.<br>📚 I'm currently learning PHP.<br>💬 Ask me about TypeScript.
+🛠️ I'm currently working on a Angular Project.<br>🤝 I'm looking to collaborate on internship opportunities.<br>🆘 I'm looking for help with PHP.<br>📚 I'm currently learning PHP.<br>💬 Ask me about TypeScript.
 
 
 
