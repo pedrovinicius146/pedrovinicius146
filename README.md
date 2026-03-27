@@ -71,21 +71,9 @@ Includes dynamic filters, trend analysis, and executive-level visualizations.
 Python scripts for automated data processing and reporting.
 Reduced manual work time through end-to-end pipeline automation.
 
-> ⚠️ *Replace the links above with the actual repository URLs for each project.*
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrovinicius146&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovinicius146&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=pedrovinicius146&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Goal
 
