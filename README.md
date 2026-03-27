@@ -31,23 +31,6 @@ I work with Python, SQL, and Power BI to transform raw data into strategic insig
 
 ---
 
-## Tech Stack
-
-### Data & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-### Development & Tools
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
 ### Skills
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Transformation
@@ -71,7 +54,7 @@ Includes dynamic filters, trend analysis, and executive-level visualizations.
 Python scripts for automated data processing and reporting.
 Reduced manual work time through end-to-end pipeline automation.
 
-
+---
 
 ## 🛠 Tech Stack
 
@@ -111,6 +94,10 @@ Reduced manual work time through end-to-end pipeline automation.
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
+---
+
 
 ## Goal
 
