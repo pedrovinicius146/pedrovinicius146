@@ -73,9 +73,7 @@ Reduced manual work time through end-to-end pipeline automation.
 
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark)
-![Trophies](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=darkhub)
 
 ## Goal
 
